@@ -1,0 +1,8 @@
+{
+  "name": "UmmaConnect Talk Radio",
+  "description": "Generate complete talk radio shows in English, Tamil, and Sinhala from simple prompts, featuring dynamic background music, realistic speech, and rich visuals using the new Antigravity agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
